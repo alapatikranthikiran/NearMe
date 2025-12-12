@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-home.html:
+//home.html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +46,7 @@ home.html:
 </body>
 </html>
 
-ground.html:
+//ground.html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +64,7 @@ The playground also hosts interdepartmental tournaments, cultural events, fitnes
 </body>
 </html>
 
-river.html:
+//river.html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -83,7 +83,7 @@ The natural ecosystem around the river also supports outdoor activities, environ
 </html>
 
 
-simats.html:
+//simats.html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
